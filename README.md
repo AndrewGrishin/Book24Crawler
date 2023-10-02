@@ -6,7 +6,7 @@ Books24 is a paperback book shop that allows uses to make purchases online, sele
 
 ## About the project
 
-In this project [Books24](https://book24.ru) is goint to be analyzed. The main target of this project is to provide convinient API for this site by using which any user will be able to get information of all books he/she requested.
+In this project [Books24](https://book24.ru) is going to be analyzed. The main target of this project is to provide convinient API for this site by using which any user will be able to get information of all books he/she requested.
 
 The project development is devided into 3 global parts.
 
