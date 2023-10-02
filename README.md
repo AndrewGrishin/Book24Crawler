@@ -21,7 +21,7 @@ Data that is going to be collected from the server about each book contains:
 - [x] Links on the page.
 - [x] Title of the book.
 - [x] Author.
-- [x] Classification
+- [x] Classification.
 - [x] Description.
 - [x] Price.
 - [x] In stock amount (verbal).
@@ -33,7 +33,7 @@ Data that is going to be collected from the server about each book contains:
 ## User guide (Unix systems: Linux, MacOS, ...)
 
 - Create directory.
-- Place the file ```Scraping.py``` into that folder.
+- Place files ```Scraping.py``` and ```RequiredFunctions.py``` into that folder.
 - Open terminal and create ```virtualenv```.
 - Activate it via: ```source <virtualenv_name>/bin/activate```.
 - Install required packages:  ```pip install fake_useragent requests beautifulsoup4 tqdm```.
